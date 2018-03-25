@@ -1,0 +1,195 @@
+2018-03-24 19:43:14,517  INFO  User  (::1) go to http://localhost:58863/games
+2018-03-24 19:43:14,537  INFO  Request for user  (::1) completed. Request time 0sec. 
+2018-03-24 19:45:42,279  INFO  User  (::1) go to http://localhost:58863/games
+2018-03-24 19:45:42,305  INFO  Request for user  (::1) completed. Request time 11mls. 
+2018-03-24 19:46:55,297  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 19:46:55,319  INFO  Request for user  (::1) completed. Request time 9mls. 
+2018-03-24 19:49:59,532  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 19:49:59,555  INFO  Request for user  (::1) completed. Request time 10mls. 
+2018-03-24 19:57:13,600  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 19:57:13,624  INFO  Request for user  (::1) completed. Request time 11mls. 
+2018-03-24 20:45:41,054  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 20:45:41,080  INFO  Request for user  (::1) completed. Request time 10mls. 
+2018-03-24 21:17:04,831  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:17:04,855  INFO  Getting a list of games
+2018-03-24 21:17:07,891  INFO  Request for user  (::1) completed. Request time 3046mls. 
+2018-03-24 21:18:28,589  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:18:28,613  INFO  Getting a list of games
+2018-03-24 21:18:30,428  INFO  User  (::1) go to http://localhost:58863/game/qwe/download
+2018-03-24 21:18:30,434  INFO  Getting game details qwe
+2018-03-24 21:19:37,293  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:19:37,317  INFO  Getting a list of games
+2018-03-24 21:19:39,625  INFO  User  (::1) go to http://localhost:58863/game/qwe/download
+2018-03-24 21:20:15,579  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:20:15,600  INFO  Getting a list of games
+2018-03-24 21:20:18,062  INFO  Request for user  (::1) completed. Request time 2471mls. 
+2018-03-24 21:20:18,300  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:20:18,307  INFO  Getting a list of games
+2018-03-24 21:20:18,331  INFO  Request for user  (::1) completed. Request time 2495mls. 
+2018-03-24 21:20:36,084  INFO  User  (::1) go to http://localhost:58863/game/qwe/download
+2018-03-24 21:20:36,095  INFO  Request for user  (::1) completed. Request time 2501mls. 
+2018-03-24 21:21:39,463  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:21:39,484  INFO  Getting a list of games
+2018-03-24 21:21:41,763  INFO  Request for user  (::1) completed. Request time 2288mls. 
+2018-03-24 21:22:04,901  INFO  User  (::1) go to http://localhost:58863/game/qwe/download
+2018-03-24 21:22:04,916  INFO  Request for user  (::1) completed. Request time 2297mls. 
+2018-03-24 21:22:54,461  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:22:54,487  INFO  Getting a list of games
+2018-03-24 21:22:56,832  INFO  Request for user  (::1) completed. Request time 2354mls. 
+2018-03-24 21:23:07,519  INFO  User  (::1) go to http://localhost:58863/game/qwe/download
+2018-03-24 21:23:07,527  INFO  Getting game details qwe
+2018-03-24 21:23:07,594  INFO  Request for user  (::1) completed. Request time 2423mls. 
+2018-03-24 21:36:46,088  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:36:46,111  INFO  Getting a list of games
+2018-03-24 21:36:49,363  INFO  Request for user  (::1) completed. Request time 3263mls. 
+2018-03-24 21:37:29,414  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:37:29,419  INFO  Getting a list of games
+2018-03-24 21:37:29,438  INFO  Request for user  (::1) completed. Request time 3282mls. 
+2018-03-24 21:39:26,317  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:39:26,339  INFO  Getting a list of games
+2018-03-24 21:39:28,811  INFO  Request for user  (::1) completed. Request time 2482mls. 
+2018-03-24 21:39:59,979  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:39:59,985  INFO  Getting a list of games
+2018-03-24 21:40:00,005  INFO  Request for user  (::1) completed. Request time 2501mls. 
+2018-03-24 21:41:02,469  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:41:02,493  INFO  Getting a list of games
+2018-03-24 21:41:05,066  INFO  Request for user  (::1) completed. Request time 2583mls. 
+2018-03-24 21:42:49,832  INFO  User  (::1) go to http://localhost:58863/Game/GetGames
+2018-03-24 21:42:49,840  INFO  Getting game details GetGames
+2018-03-24 21:42:49,905  INFO  Request for user  (::1) completed. Request time 2649mls. 
+2018-03-24 21:43:12,907  INFO  User  (::1) go to http://localhost:58863/Game/GetGames
+2018-03-24 21:43:12,914  INFO  Getting game details GetGames
+2018-03-24 21:43:12,938  INFO  Request for user  (::1) completed. Request time 2672mls. 
+2018-03-24 21:43:36,231  INFO  User  (::1) go to http://localhost:58863/Game/GetGames
+2018-03-24 21:44:01,393  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:44:48,195  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:44:53,906  INFO  Getting a list of games
+2018-03-24 21:44:56,355  INFO  Request for user  (::1) completed. Request time 8145mls. 
+2018-03-24 21:46:52,303  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 21:46:54,393  INFO  Getting a list of games
+2018-03-24 21:46:56,775  INFO  Request for user  (::1) completed. Request time 4457mls. 
+2018-03-24 21:47:00,997  INFO  User  (::1) go to http://localhost:58863/games
+2018-03-24 21:47:03,344  INFO  Getting a list of games
+2018-03-24 21:47:03,364  INFO  Request for user  (::1) completed. Request time 6819mls. 
+2018-03-24 22:02:10,972  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 22:02:10,995  INFO  Getting a list of games
+2018-03-24 22:02:14,197  INFO  Request for user  (::1) completed. Request time 3212mls. 
+2018-03-24 22:02:44,421  INFO  User  (::1) go to http://localhost:58863/game/create
+2018-03-24 22:02:44,428  INFO  Getting game details create
+2018-03-24 22:02:44,507  INFO  Request for user  (::1) completed. Request time 3293mls. 
+2018-03-24 22:03:11,745  INFO  User  (::1) go to http://localhost:58863/games/
+2018-03-24 22:03:11,752  INFO  Getting a list of games
+2018-03-24 22:03:11,779  INFO  Request for user  (::1) completed. Request time 3320mls. 
+2018-03-24 22:11:12,970  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 22:11:21,475  INFO  Create new game,
+2018-03-24 22:17:20,363  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 22:17:20,384  INFO  Getting a list of games
+2018-03-24 22:17:23,482  INFO  Request for user  (::1) completed. Request time 3108mls. 
+2018-03-24 22:17:25,081  INFO  User  (::1) go to http://localhost:58863/game/asd
+2018-03-24 22:17:25,089  INFO  Getting game details asd
+2018-03-24 22:17:25,158  INFO  Request for user  (::1) completed. Request time 3178mls. 
+2018-03-24 22:21:02,009  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 22:21:02,032  INFO  Getting a list of games
+2018-03-24 22:21:04,344  INFO  Request for user  (::1) completed. Request time 2323mls. 
+2018-03-24 22:21:08,203  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 22:32:45,154  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 22:32:45,154  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 22:32:45,154  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 22:32:46,461  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 22:32:46,461  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 22:33:19,937  INFO  Request for user  (::1) completed. Request time 717057mls. 
+2018-03-24 22:33:20,940  INFO  Request for user  (::1) completed. Request time 717057mls. 
+2018-03-24 22:33:21,246  INFO  Request for user  (::1) completed. Request time 717057mls. 
+2018-03-24 22:33:21,605  INFO  Request for user  (::1) completed. Request time 717057mls. 
+2018-03-24 22:33:21,605  INFO  Request for user  (::1) completed. Request time 717057mls. 
+2018-03-24 22:33:21,634  INFO  Request for user  (::1) completed. Request time 717057mls. 
+2018-03-24 22:38:27,541  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 22:38:27,562  INFO  Getting a list of games
+2018-03-24 22:38:29,883  INFO  Request for user  (::1) completed. Request time 2329mls. 
+2018-03-24 22:39:43,765  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 22:43:05,308  INFO  Request for user  (::1) completed. Request time 203867mls. 
+2018-03-24 22:58:24,877  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 22:58:24,900  INFO  Getting a list of games
+2018-03-24 22:58:27,926  INFO  Request for user  (::1) completed. Request time 3036mls. 
+2018-03-24 22:58:28,160  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:03:28,353  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:03:28,377  INFO  Getting a list of games
+2018-03-24 23:03:31,441  INFO  Request for user  (::1) completed. Request time 3074mls. 
+2018-03-24 23:04:03,930  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:04:03,953  INFO  Getting a list of games
+2018-03-24 23:04:06,382  INFO  Request for user  (::1) completed. Request time 2439mls. 
+2018-03-24 23:04:09,804  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:04:18,814  INFO  Request for user  (::1) completed. Request time 11444mls. 
+2018-03-24 23:11:58,274  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:11:58,295  INFO  Getting a list of games
+2018-03-24 23:12:01,299  INFO  Request for user  (::1) completed. Request time 3013mls. 
+2018-03-24 23:12:08,099  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:13:23,214  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:13:23,238  INFO  Getting a list of games
+2018-03-24 23:13:25,681  INFO  Request for user  (::1) completed. Request time 2453mls. 
+2018-03-24 23:13:29,346  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:15:24,069  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:15:24,093  INFO  Getting a list of games
+2018-03-24 23:15:26,459  INFO  Request for user  (::1) completed. Request time 2376mls. 
+2018-03-24 23:16:10,298  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:17:26,875  INFO  Request for user  (::1) completed. Request time 78949mls. 
+2018-03-24 23:17:26,946  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:19:05,917  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:19:05,939  INFO  Getting a list of games
+2018-03-24 23:19:08,207  INFO  Request for user  (::1) completed. Request time 2277mls. 
+2018-03-24 23:19:12,043  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:19:47,793  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:20:37,873  INFO  Request for user  (::1) completed. Request time 50067mls. 
+2018-03-24 23:20:37,881  ERROR Exception:Unexpected character encountered while parsing value: a. Path 'Description', line 1, position 41.. Place:GameController. Status code:200
+2018-03-24 23:20:44,987  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:23:29,964  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:23:29,988  INFO  Getting a list of games
+2018-03-24 23:23:32,315  INFO  Request for user  (::1) completed. Request time 2337mls. 
+2018-03-24 23:23:39,105  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:23:47,493  INFO  Create new gameasd,asd
+2018-03-24 23:23:57,710  INFO  Request for user  (::1) completed. Request time 20381mls. 
+2018-03-24 23:24:11,496  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:24:11,502  INFO  Getting a list of games
+2018-03-24 23:24:11,522  INFO  Request for user  (::1) completed. Request time 20402mls. 
+2018-03-24 23:24:16,228  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:24:16,233  INFO  Getting a list of games
+2018-03-24 23:24:16,251  INFO  Request for user  (::1) completed. Request time 20420mls. 
+2018-03-24 23:28:32,638  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:28:32,661  INFO  Getting a list of games
+2018-03-24 23:28:34,985  INFO  Request for user  (::1) completed. Request time 2333mls. 
+2018-03-24 23:28:37,109  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:28:45,566  INFO  Create new gameasd,asd
+2018-03-24 23:28:57,278  INFO  Request for user  (::1) completed. Request time 22498mls. 
+2018-03-24 23:29:03,579  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:29:03,584  INFO  Getting a list of games
+2018-03-24 23:29:03,615  INFO  Request for user  (::1) completed. Request time 22529mls. 
+2018-03-24 23:32:09,181  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:32:09,204  INFO  Getting a list of games
+2018-03-24 23:32:11,448  INFO  Request for user  (::1) completed. Request time 2254mls. 
+2018-03-24 23:32:22,445  INFO  User  (::1) go to http://localhost:58863/game/asd
+2018-03-24 23:32:22,452  INFO  Getting game details asd
+2018-03-24 23:32:22,494  INFO  Request for user  (::1) completed. Request time 2298mls. 
+2018-03-24 23:33:36,606  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:33:36,635  INFO  Getting a list of games
+2018-03-24 23:33:39,108  INFO  Request for user  (::1) completed. Request time 2486mls. 
+2018-03-24 23:34:25,742  INFO  User  (::1) go to http://localhost:58863/games/Remove/asd
+2018-03-24 23:34:30,900  INFO  Delete the gameasd
+2018-03-24 23:34:42,333  INFO  Request for user  (::1) completed. Request time 19072mls. 
+2018-03-24 23:34:51,170  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:34:51,177  INFO  Getting a list of games
+2018-03-24 23:34:51,202  INFO  Request for user  (::1) completed. Request time 19096mls. 
+2018-03-24 23:35:10,961  INFO  User  (::1) go to http://localhost:58863/games/new
+2018-03-24 23:35:13,309  INFO  Create new gameasd,asd
+2018-03-24 23:35:13,377  INFO  Request for user  (::1) completed. Request time 21504mls. 
+2018-03-24 23:35:19,139  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:35:19,144  INFO  Getting a list of games
+2018-03-24 23:35:19,164  INFO  Request for user  (::1) completed. Request time 21524mls. 
+2018-03-24 23:35:34,885  INFO  User  (::1) go to http://localhost:58863/games/Update/asd
+2018-03-24 23:35:34,892  INFO  Updating gameasd
+2018-03-24 23:35:34,927  INFO  Request for user  (::1) completed. Request time 21560mls. 
+2018-03-24 23:35:50,092  INFO  User  (::1) go to http://localhost:58863/games/Update/asd
+2018-03-24 23:35:50,098  INFO  Updating gameasd
+2018-03-24 23:35:50,119  INFO  Request for user  (::1) completed. Request time 21581mls. 
+2018-03-24 23:35:58,788  INFO  User  (::1) go to http://localhost:58863/
+2018-03-24 23:35:58,796  INFO  Getting a list of games
+2018-03-24 23:35:58,816  INFO  Request for user  (::1) completed. Request time 21601mls. 
